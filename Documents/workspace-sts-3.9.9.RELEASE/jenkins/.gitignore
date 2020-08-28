@@ -1,0 +1,10 @@
+# Maven
+log/
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+.classpath
